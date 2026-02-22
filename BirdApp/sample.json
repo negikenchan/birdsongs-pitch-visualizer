@@ -1,0 +1,13 @@
+{
+  "input_filename": "sample.wav",
+  "location": "TomiyaNegishiHouse",
+  "species": "JapaneseNightingale",
+  "situation": "Dawn",
+  "lowcut": 720,
+  "highcut": 5700,
+  "t_range": [5.8, 8.6],
+  "cmap": "monochrome",
+  "threshold_ratio": 0.3,
+  "smoothing_sec": 0.1,
+  "monothre": 20
+}
