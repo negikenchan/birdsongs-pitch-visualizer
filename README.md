@@ -21,9 +21,10 @@
 
 ## 🖥 Demo
 
-<img src="docs/screenshot.png" width="600">
+<img src="docs/original_waveform.png" width="600">
+<img src="docs/filtered_spectrogram.png" width="600">
+<img src="docs/detected_notes.png" width="600">
 
-※ スクリーンショットは後で差し替え
 
 ---
 
